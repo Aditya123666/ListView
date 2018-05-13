@@ -31,7 +31,7 @@
 </ListView>
 ``` 
 
-6. lalu setelah itu kita masuk ke string.xml, letaknya di folder res/values/string.xml lalu kita masukkan kode dibawah ini, disini saya contohkan menampilkan beberapa nama negara di dunia
+## 6. lalu setelah itu kita masuk ke string.xml, letaknya di folder res/values/string.xml lalu kita masukkan kode dibawah ini, disini saya contohkan menampilkan beberapa nama negara di dunia
 
 ```<resources>
     <string name="app_name">ExampleListView</string>
@@ -59,9 +59,9 @@
     </string-array>
 </resources>
 ``` 
-7. buat folder baru di res dengan nama folder menu kemudian buat sebuah resource file baru dengan nama list.xml
+## 7. buat folder baru di res dengan nama folder menu kemudian buat sebuah resource file baru dengan nama list.xml
 
-6. setelah string.xml sekarang kita beralih ke MainActivity.java
+## 6. setelah string.xml sekarang kita beralih ke MainActivity.java
 
 ```package app.com.example.android.examplelistview;
 
